@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Dictionary Web App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is Hosted in [Netlify](https://dictionary-v2.netlify.app/).
 
 ## Available Scripts
 
