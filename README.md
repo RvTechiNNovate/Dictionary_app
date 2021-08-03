@@ -1,6 +1,6 @@
 # Getting Started with Dictionary Web App
 
-This project is Hosted in [Netlify](https://dictionary-v2.netlify.app/).
+This project is Hosted in [https://dictionary-v2.netlify.app/](https://dictionary-v2.netlify.app/).
 
 ## Available Scripts
 
